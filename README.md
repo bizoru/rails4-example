@@ -7,6 +7,7 @@ Simple Blog Application for Rails 4
 - apt-get install ruby
 - gem install rails
 - rake db:migrate
+- bundle
 - rails s
 
 Happy Coding.
